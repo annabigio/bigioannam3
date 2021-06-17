@@ -1,0 +1,249 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Spartan:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Spartan:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300&display=swap');
+
+*{
+	margin: 0%;
+	padding: 0%;
+	box-sizing: border-box;
+
+}
+
+body{
+	background-color: #FDA7DF;
+}
+
+
+main{
+	width: 90%;
+	height: 830px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+header{
+	width: 100%;
+	height: 130px;
+	background-color:#D980FA ;
+		font-family: 'Spartan', sans-serif;
+
+}
+
+section{
+
+	width: 100%;
+	height: 660px;
+	background-color: #f368e0;
+	
+}
+
+nav{
+	width: 100%;
+	height: 50px;
+	background-color: #9980FA;
+
+}
+footer{
+	width: 100%;
+	height: 60px;
+	background-color: #D980FA;
+	clear: both;
+	font-family: 'Spartan', sans-serif;}
+#menu{
+	margin: 0;
+	margin-left: 65%;
+	text-decoration: none;
+
+}
+#menu li{
+	font-size: 17px;
+	float: left;
+	margin-left: 6%;
+	padding: 3.5%;
+	color:  #1B1464;
+	border-radius: 10%;
+	display: inline;
+		font-family: 'Spartan', sans-serif;
+
+}
+.menu1{
+	color: #FDA7DF;
+	text-decoration:none;
+
+}
+
+
+#foto1{
+	width: 100%;
+	height: 690px;
+background-image: url(ashley123.jpg);
+	background-size:cover; 
+
+
+
+}
+.titulo{
+	font-size: 60px;
+	padding: 5%;
+	padding-top: 20%;
+	font-family: 'Spartan', sans-serif;
+	color: #FDA7DF;
+}
+
+.texto{
+	padding: 3.5%;
+	margin-bottom: 2.5%;
+	font-size: 30px;
+font-family: 'Kalam', cursive;
+
+}
+
+.logo1{
+
+	float: left;
+	margin: 2%;
+}
+.redes li{
+	padding-bottom: 6%;
+
+	float: right;
+	margin: 0.5%;
+
+	display: inline;
+}
+
+.pie1{
+
+	text-decoration: none;
+	color: #5758BB;
+}
+
+p{
+
+font-family: 'Spartan', sans-serif;
+padding: 1%;
+	padding-left: 45%;
+	margin-right: auto;
+	padding-bottom: 1%;
+	margin-bottom: -3%;
+	
+
+}
+.logo{
+	margin-left: 2%;
+	margin-top: -1%;
+	float: left;
+	filter: brightness(1.1);
+	mix-blend-mode: multiply;
+	
+
+}
+
+.elenco{
+	padding: 2%;
+	margin-left: 36%;
+
+		font-family: 'Spartan', sans-serif;
+
+}
+.info{
+	padding: 2%;
+	margin-left: 36%;
+
+		font-family: 'Spartan', sans-serif;
+
+}
+#info{
+	flot: lef;
+	
+}
+.resumen{
+	padding: 1%;
+	margin-right:2%;
+	margin-top: 5%;
+	padding-right: 40%;
+
+
+
+	font-family: 'Spartan', sans-serif;
+
+
+}
+.fotos{
+
+	padding-left: 73%;
+	margin-bottom: 15%;
+	margin-top: -20%;
+
+
+		
+	}
+.fotos2{
+	padding-left: 73%;
+	margin-top: -30%;
+	
+}
+.trivia{
+	padding: 2%;
+	margin-left: 36%;
+
+		font-family: 'Spartan', sans-serif;
+
+}
+.formulario{
+	
+	margin-left: 36%;
+	font-family: 'Kalam', cursive;
+
+}
+.preguntas{
+	padding: 5%;
+	color: #1e272e;
+
+	margin-left: 30%;
+
+
+
+	}
+.respuestas{
+	
+	color: #1e272e;
+		margin: 2%;
+		margin-left:35%;
+	
+
+       
+	}
+#formulario{
+	font-family: 'Spartan', sans-serif;
+	width: 60%;
+	height:570px;
+	background-color: #D6A2E8;
+	margin-right: auto;
+	margin-left: auto;
+
+
+}
+.boton{
+	width: 200px;
+	height: 50px;
+	color: #FDA7DF;
+	background-color: #5758BB;
+	padding: 1%;
+	margin: -2%;
+	margin-left: 60%;
+}
+
+#galeria li{
+
+	font-size: 11px;
+	padding: 1%;
+	float: left;
+	margin-left: 17%;
+	color: #1B1464;
+	border-radius: 10%;
+	display: inline;
+	font-family: 'Spartan', sans-serif;
+
